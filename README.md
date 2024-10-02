@@ -8,9 +8,7 @@
 
 - 🔭 I’m working on **projects to add to my portfolio**
 
-- 👯 I’m looking to collaborate **with everyone at my same coding level**
-
-- 🥅 Right now my goal is **Finish my bigger project car-rental-site using Vanilla JavaScript ES6**
+- 🥅 Right now my goal is **Finish Cryptous crypto landing page**
 
 - ⚡ Fun fact **I walked 80km+ from Vilnius to Kaunas just to get a beer with my friend true story bro :D**
 
