@@ -4,11 +4,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Full-snack 🥐 developement | Vanilla JavaScript | React**
-
 - 🔭 I’m working on **projects to add to my portfolio**
-
-- 🥅 Right now my goal is **Finish Cryptous crypto landing page**
 
 - ⚡ Fun fact **I walked 80km+ from Vilnius to Kaunas just to get a beer with my friend true story bro :D**
 
