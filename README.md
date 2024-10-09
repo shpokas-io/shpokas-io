@@ -1,6 +1,6 @@
 # Hello👋 My name is Skirmantas but everybody calls me Shpokas
 
-### I solve web problems creatively 🪄
+### I like to tackle hard technical problems
 
 ---
 
