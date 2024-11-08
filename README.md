@@ -33,4 +33,5 @@
 Check REPOS for projects...
 
 
-[![Shpokas GitHub stats](https://github-readme-stats.vercel.app/api?username=shpokas-io)](https://github.com/shpokas-io/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shpokas-io&layout=compact&theme=dark&langs_count=8)
+
