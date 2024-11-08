@@ -31,3 +31,6 @@
 
 🚧 Construction happening...
 Check REPOS for projects...
+
+
+[![Shpokas GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/shpokas-io/github-readme-stats)
