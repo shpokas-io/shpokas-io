@@ -32,6 +32,3 @@
 🚧 Construction happening...
 Check REPOS for projects...
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shpokas-io&layout=compact&theme=dark&langs_count=8)
-
