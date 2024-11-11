@@ -32,6 +32,6 @@
 🚧 Construction happening...
 Check REPOS for projects...
 
+![WakaTime Language Usage](https://github-readme-stats.vercel.app/api/wakatime?username=1e78f016-ea30-411f-8e4b-6e26db37c389&layout=compact)
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=shpokas-io)
 
